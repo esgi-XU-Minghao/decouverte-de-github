@@ -1,1 +1,8 @@
-test de contribution sur GtHb 
+test de contribution sur GitHub
+
+Github est:
+1.pour partager des codes/applis ce qu'on a fait a tout le monde
+2.pour realiser travailler en equipe/community
+3.pour gerer la version de l'appli
+etc.
+
